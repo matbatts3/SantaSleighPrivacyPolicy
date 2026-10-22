@@ -1,2 +1,54 @@
 # SantaSleighPrivacyPolicy
 Santa Sleigh Catch Privacy Policy
+Privacy Policy
+Santa's Sleigh Catch
+Last updated: 15 October 2026
+Privacy at a glance. Santa's Sleigh Catch does not collect, transmit, sell or share personal or sensitive user data. Game progress and optional profile choices are stored only on the player's device.
+1. About this policy
+This Privacy Policy explains how Santa's Sleigh Catch (the "Game", "we", "us" or "our") handles information when the Game is installed and played. The Game is intended to provide a safe and transparent experience for players of all ages, including children and families.
+This policy applies to the Game. It does not cover the separate practices of the app store, device manufacturer or operating-system provider used to download or run the Game.
+2. Information we collect
+We do not collect personal or sensitive user data through the Game.
+•	No account is required. Players do not need to provide a real name, email address, telephone number, postal address or social-media login.
+•	The Game does not request or track precise or approximate location.
+•	The Game does not collect contacts, photographs, videos, audio recordings, messages, payment information, advertising identifiers or other personal information.
+•	The Game does not use analytics, behavioural tracking, advertising networks or tracking cookies.
+3. Information stored locally on the device
+The Game may store the following gameplay information locally on the device:
+•	an optional nickname or avatar selected by the player;
+•	high scores and game progress;
+•	daily mission completions and Advent Calendar unlocks; and
+•	custom sleigh preferences and unlocked items.
+This local gameplay information remains on the player's device. It is not sent to us or to an external server, is not shared with third parties, and is not linked by us to the player's real-world identity.
+4. How local gameplay information is used
+Local gameplay information is used only to operate Game features on the device, including remembering player preferences, recording progress, displaying unlocked content and maintaining high scores. It is not used for advertising, marketing, profiling or cross-app tracking.
+5. Secure data handling
+We use a data-minimisation approach: the Game is designed so that personal and sensitive user data is not collected or transmitted. The following safeguards apply to the local gameplay information described above:
+•	Local-only storage: gameplay information is stored within the Game's local app storage on the device and is not uploaded to our servers.
+•	No network transfer by the Game: local gameplay information is not transmitted over the internet by us, so we do not process that information on external systems.
+•	Operating-system protection: access to the Game's local app storage is controlled by the device and its operating system, including the operating system's app-isolation and device-security controls.
+•	Minimum access: the Game requests only the device access needed to save and retrieve local gameplay information required for Game functions.
+•	No advertising or analytics SDKs: the Game does not integrate third-party advertising networks, ad trackers or analytics tools that collect gameplay or personal information.
+•	User-controlled deletion: players can remove locally stored gameplay information by clearing the Game app data or uninstalling the Game.
+No security measure can guarantee absolute protection. Players should keep their device and operating system updated and use available device security, such as a screen lock, to help protect locally stored information.
+6. Sharing, sale and disclosure
+We do not sell, rent, disclose or share personal or sensitive user data because the Game does not collect that data. We also do not share local gameplay information with advertisers, analytics providers or other third parties.
+7. Advertising and third-party software
+Santa's Sleigh Catch is ad-free. The Game does not display third-party advertisements and does not use advertising identifiers, third-party ad networks, tracking cookies or behavioural analytics.
+8. Children's privacy
+The Game is designed for a general audience that includes children and families. The Game does not knowingly collect personal information from children. Because personal or sensitive user data is not collected, we do not use children's information for advertising, profiling or marketing.
+If a parent or guardian believes that personal information has been provided to or collected by us in connection with the Game, please contact us using the details in section 13. We will investigate the concern and, if any information is held by us, take appropriate steps to delete it.
+9. Permissions and device access
+The Game uses only the minimum device access required to operate and to save gameplay information locally. The Game does not request access to location, contacts, camera, microphone or other sensitive device features for gameplay.
+10. Retention and deletion
+Local gameplay information remains on the device until the player deletes it, clears the Game's app data, resets the Game where that option is available, or uninstalls the Game. On Android, app data can generally be removed through the device's app settings. Menu names may vary by device and operating-system version.
+Because local gameplay information is not transmitted to or held by us, we cannot access, restore or remotely delete it.
+11. International data transfers
+The Game does not transfer personal or sensitive user data internationally because it does not collect or transmit that data.
+12. Changes to this Privacy Policy
+We may revise this Privacy Policy if the Game, its data practices or applicable requirements change. The updated policy will show a revised “Last updated” date. If a future version of the Game begins collecting or transmitting personal or sensitive user data, this policy and the relevant app-store disclosures will be updated before or when that change takes effect, as required.
+13. Contact us
+If you have any questions, feedback or concerns about this Privacy Policy or the Game’s data practices, please contact:
+Developer	Mat Batterbee
+Email	mattbatterbee1991@googlemail.com
+
